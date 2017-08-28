@@ -1,6 +1,7 @@
 <?php
 //require './temp/~runtime.php';// 替换入口文件为编译缓存文件
-define('APP_DEBUG', true);	//调试模式
+
+define('APP_DEBUG', true);		//调试模式
 define('THINK_PATH', './framework/');
 define('APP_NAME', 'App');
 define('APP_PATH', './');
